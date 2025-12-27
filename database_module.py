@@ -124,9 +124,9 @@ class DBManager:
 
 if __name__ == "__main__":
     db_manager = DBManager(
-        dbname="repair_tracker_db", 
+        dbname="gerofa", 
         user="postgres", 
-        password="p4v17102006", 
+        password="62gerofa", 
         host="localhost"
     )
     
